@@ -1,0 +1,38 @@
+#header{
+	text-align: center;
+}
+body{
+	margin: 30px;
+
+}
+h1{
+	font-size: 3rem;
+}
+.main h2{
+	font-size: 2rem;
+}
+.main p{
+	font-size: 1.5rem;
+}
+main{
+	width: 60%;
+	display: inline-block;
+}
+
+
+aside{
+	width: 21%;
+	dispaly: inline-block;
+}
+.aside input{
+   display: block;
+   margin: 4px;
+   padding:2px;
+
+}
+input[type="submit"]{
+	background-color: black;
+	color: white;
+	padding:2px;
+}
+
